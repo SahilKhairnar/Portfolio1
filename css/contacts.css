@@ -1,0 +1,68 @@
+body{
+	background-image: url('../images/contacts.JPG');
+	background-size: cover;
+	
+
+}
+
+.tm-container{
+background: rgba(256,256,256,0.75);
+height: 100px;
+max-width: 1200px;
+
+
+}
+
+.nav a{
+	text-decoration: none;
+	color: black;
+	font-size: 1.5em;
+	margin-top: 80px;
+	margin-left: 50px;
+}
+
+img{
+	max-height: 90px;
+	padding: 5px;
+	float: left;
+}
+
+.lists{
+	display: inline-block;
+}
+
+.nav{
+	float: right;
+	margin-right: 50px;
+}
+
+.nav ul a:hover{
+
+	background: rgba(256,256,256,1);
+}
+
+p{
+	font-size: 1.5em;
+}
+.linktext{
+   text-decoration: none;
+   color: black;
+   clear: all;
+
+}
+.linktext:hover{
+	color: blue;
+}
+
+.list{
+	display: list-item;
+}
+
+.links{
+	background: rgba(256,256,256,0.8);
+	max-width: 1200px;
+}
+
+.currlink{
+	background: rgba(0,0,0,0.3);
+}

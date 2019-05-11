@@ -1,0 +1,59 @@
+body{
+	background-image: url('../images/intrests.JPG');
+	background-size: cover;
+	
+
+}
+
+.tm-container{
+background: rgba(256,256,256,0.75);
+max-width: 1200px;
+height: 100px;
+
+}
+
+.nav a{
+	text-decoration: none;
+	color: black;
+	font-size: 1.5em;
+	margin-top: 80px;
+	margin-left: 50px;
+}
+
+img{
+	max-height: 90px;
+	padding: 5px;
+	float: left;
+}
+
+.lists{
+	display: inline-block;
+}
+
+.nav{
+	float: right;
+	margin-right: 50px;
+}
+
+.nav ul a:hover{
+
+	background: rgba(256,256,256,1);
+}
+
+.list{
+	background: rgba(256,256,256,0.8);
+    max-width: 1200px;
+	margin-top: 50px;
+
+
+
+}
+
+.font{
+	font-size: 2em;
+	max-width: 1200px;
+}
+
+.currlink{
+	background: rgba(0,0,0,0.3);
+}
